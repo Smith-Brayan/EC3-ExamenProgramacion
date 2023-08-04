@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Comida</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="olvide_mi_contrase_a">Olvide mi contraseña</string>
+    <string name="login">Login</string>
+    <string name="receta">Receta</string>
+    <string name="precio">Precio</string>
+</resources>
